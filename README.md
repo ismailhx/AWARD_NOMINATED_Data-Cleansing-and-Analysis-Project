@@ -1,5 +1,7 @@
 Best UK AI and Robotics Award Nominated Project for Grocery Order Prediction.
-Cleansed and Process and IBM Coffee Shop Dataset using Python before building Predictive model to analyse the correlation between product orders and time with polynomial regression techniques, achieving an r2score of 90%. 
+
+Cleansed and Process and IBM Coffee Shop Dataset using Python, before building Predictive model to analyse the correlation between product orders and time with polynomial regression techniques, achieving an r2score of 90%. 
+
 Project was nominated for AI & Robotics Award for its innovation and relevance to real-world business applications.
 Please View the Presentation for a better understanding
 
